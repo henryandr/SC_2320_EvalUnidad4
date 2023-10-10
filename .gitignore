@@ -1,0 +1,45 @@
+# Archivos generados por el entorno de desarrollo
+.vscode/
+*.suo
+*.user
+*.sln.docstates
+
+# Carpetas y archivos binarios generados durante la compilación
+Debug/
+Release/
+x64/
+x86/
+*.exe
+*.dll
+
+# Archivos de respaldo y archivos temporales generados por el sistema
+*~
+*.bak
+*.log
+*.swp
+Thumbs.db
+Desktop.ini
+
+# Carpeta para archivos objeto (puedes comentar esto si prefieres incluirlos)
+*.obj
+*.o
+
+# Archivos específicos del IDE (Visual Studio)
+[Bb]in/
+[Dd]ebug/
+[Rr]elease/
+[Tt]est[Rr]esults/
+_UpgradeReport_Files/
+TestResults/
+
+# Carpeta generada por el generador de proyectos CMake
+CMakeFiles/
+CMakeCache.txt
+CMakeScripts/
+CMakeDoxyfile.in
+cmake_install.cmake
+install_manifest.txt
+
+# Archivos generados por Makefile
+Makefile
+CMakeLists.txt.user
